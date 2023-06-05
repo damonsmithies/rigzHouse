@@ -1,9 +1,9 @@
 <types>
 <type name="Spur_LW_Bag_Black">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -14,10 +14,10 @@
     	<tag name="civilian" />
 </type>
 <type name="Spur_LW_Bag_Blue">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -28,10 +28,10 @@
     	<tag name="civilian" />
 </type>
 <type name="Spur_LW_Bag_Brown">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -43,10 +43,10 @@
     	<tag name="civilian" />
 </type>
 <type name="Spur_LW_Bag_Green">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57,10 +57,10 @@
     	<tag name="civilian" />
 </type>
 <type name="Spur_LW_Bag_Grey">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -71,10 +71,10 @@
     	<tag name="civilian" />
 </type>
 <type name="Spur_LW_Bag_Orange">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -85,10 +85,10 @@
     	<tag name="civilian" />
 </type>
 <type name="Spur_LW_Bag_Purple">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -99,10 +99,10 @@
     	<tag name="civilian" />
 </type>
 <type name="Spur_LW_Bag_Red">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -115,10 +115,10 @@
 </type>
 
 <type name="Spur_MilBag_Black">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -131,10 +131,10 @@
     	<tag name="military" />
 </type>
 <type name="Spur_MilBag_Green">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -147,10 +147,10 @@
     	<tag name="military" />
 </type>
 <type name="Spur_MilBag_Tan">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -163,14 +163,15 @@
     	<tag name="military" />
 </type>
 <type name="Spur_MilBag_WoodlandCamo">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    	<usage />
 	<value user="Tier2" />
 	<value user="Tier3" />
 	<value user="Tier4" />
@@ -178,14 +179,15 @@
     	<tag name="military" />
 </type>
 <type name="Spur_MilBag_MultiCamo">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    	<usage />
 	<value user="Tier2" />
 	<value user="Tier3" />
 	<value user="Tier4" />
@@ -193,14 +195,15 @@
     	<tag name="military" />
 </type>
 <type name="Spur_MilBag_WinterCamo">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    	<usage />
 	<value user="Tier2" />
 	<value user="Tier3" />
 	<value user="Tier4" />
@@ -209,10 +212,10 @@
 </type>
 	
 <type name="Spur_Treker_Yellow">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -224,10 +227,10 @@
     	<tag name="hunting" />
 </type>
 	<type name="Spur_Treker_Green">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -239,10 +242,10 @@
     	<tag name="hunting" />
 </type>	
 	<type name="Spur_Treker_Red">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -254,10 +257,10 @@
     	<tag name="hunting" />
 </type>	
 	<type name="Spur_Treker_Black">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -269,10 +272,10 @@
     	<tag name="hunting" />
 </type>
 	<type name="Spur_Treker_Blue">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -285,96 +288,90 @@
 </type>
 	
 <type name="Spur_CamelBag_Black">
-        <nominal>3</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
    	<usage />
-	<value user="Tier2" />
 	<value user="Tier3" />
 	<value user="Tier4" />
     	<category name="bags" />
     	<tag name="military" />
 </type>
 <type name="Spur_CamelBag_Green">
-        <nominal>3</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     	<usage />
-	<value user="Tier2" />
 	<value user="Tier3" />
 	<value user="Tier4" />
     	<category name="bags" />
     	<tag name="military" />
 </type>
 <type name="Spur_CamelBag_Tan">
-        <nominal>3</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     	<usage />
-	<value user="Tier2" />
 	<value user="Tier3" />
 	<value user="Tier4" />
     	<category name="bags" />
     	<tag name="military" />
 </type>
 <type name="Spur_CamelBag_WoodlandCamo">
-        <nominal>3</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     	<usage />
-	<value user="Tier2" />
 	<value user="Tier3" />
 	<value user="Tier4" />
     	<category name="bags" />
     	<tag name="military" />
 </type>
 <type name="Spur_CamelBag_MultiCamo">
-        <nominal>3</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     	<usage />
-	<value user="Tier2" />
 	<value user="Tier3" />
 	<value user="Tier4" />
     	<category name="bags" />
     	<tag name="military" />
 </type>
 	<type name="Spur_CamelBag_WinterCamo">
-        <nominal>3</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     	<usage />
-	<value user="Tier2" />
 	<value user="Tier3" />
 	<value user="Tier4" />
     	<category name="bags" />
@@ -382,10 +379,10 @@
 </type>	
 
 <type name="Spur_KnifeSheath_Black">
-        <nominal>10</nominal>
+        <nominal>7</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
-        <min>8</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -399,10 +396,10 @@
     	<tag name="hunting" />
 </type>
 <type name="Spur_KnifeSheath_Green">
-        <nominal>10</nominal>
+        <nominal>7</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
-        <min>8</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -416,10 +413,10 @@
     	<tag name="hunting" />
 </type>
 <type name="Spur_KnifeSheath_Tan">
-        <nominal>10</nominal>
+        <nominal>7</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
-        <min>8</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
