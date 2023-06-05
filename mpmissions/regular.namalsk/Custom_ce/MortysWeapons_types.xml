@@ -86,6 +86,7 @@
     		<value user="Tier2"/>
     		<category name="rifles" />
     		<tag name="hunting" />
+    		<tag name="military" />
 	</type>
 	<type name="TTC_Winchester1873">
     		<nominal>6</nominal>
@@ -100,6 +101,7 @@
     		<value user="Tier2"/>
     		<category name="rifles" />
     		<tag name="hunting" />
+    		<tag name="military" />
 	</type>
     <type name="TTC_Mk47">
     		<nominal>4</nominal>

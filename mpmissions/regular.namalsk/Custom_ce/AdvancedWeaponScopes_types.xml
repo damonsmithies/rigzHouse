@@ -6,7 +6,7 @@
 
 <types>
     <type name="AD_B13Mount">
-        <nominal>3</nominal>
+        <nominal>4</nominal>
         <lifetime>2700</lifetime>
         <restock>300</restock>
         <min>2</min>
@@ -18,10 +18,10 @@
     	<tag name="military"/>		
     </type>
     <type name="AD_MosinMount">
-        <nominal>5</nominal>
+        <nominal>6</nominal>
         <lifetime>2700</lifetime>
         <restock>300</restock>
-        <min>3</min>
+        <min>4</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -32,10 +32,10 @@
     	<tag name="hunting" />		
     </type>	
     <type name="AD_ACOG">
-        <nominal>6</nominal>
+        <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>300</restock>
-        <min>4</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -58,10 +58,10 @@
     	<tag name="military" />			
     </type>		
     <type name="AD_SpecterDR">
-        <nominal>3</nominal>
+        <nominal>5</nominal>
         <lifetime>2700</lifetime>
         <restock>300</restock>
-        <min>2</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -97,10 +97,10 @@
     	<tag name="military" />			
     </type>		
     <type name="AD_ACOG_RMR">
-        <nominal>3</nominal>
+        <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>300</restock>
-        <min>2</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -136,7 +136,7 @@
     	<tag name="military" />			
     </type>		
     <type name="AD_DHF5">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>2700</lifetime>
         <restock>300</restock>
         <min>2</min>
@@ -175,10 +175,10 @@
     	<tag name="military" />			
     </type>		
     <type name="AD_MRS">
-        <nominal>8</nominal>
+        <nominal>0</nominal>
          <lifetime>2700</lifetime>
         <restock>300</restock>
-        <min>6</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -325,10 +325,10 @@
     	<tag name="military"/>				
     </type>			
     <type name="AD_Pilad">
-        <nominal>9</nominal>
+        <nominal>7</nominal>
         <lifetime>2700</lifetime>
         <restock>300</restock>
-        <min>6</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -367,10 +367,10 @@
     	<tag name="hunting" />		
     </type>			
     <type name="AD_PVS4">
-        <nominal>3</nominal>
+        <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>300</restock>
-        <min>2</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -405,10 +405,10 @@
     	<tag name="military"/>			
     </type>			
     <type name="AD_RMR">
-        <nominal>7</nominal>
+        <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>300</restock>
-        <min>5</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -461,10 +461,10 @@
     	<tag name="military" />		
     </type>			
     <type name="AD_RMR_TM">
-        <nominal>7</nominal>
+        <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>300</restock>
-        <min>5</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -517,10 +517,10 @@
     	<tag name="military" />			
     </type>	
     <type name="AD_XPS34">
-        <nominal>3</nominal>
+        <nominal>4</nominal>
         <lifetime>2700</lifetime>
         <restock>300</restock>
-        <min>2</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -625,10 +625,10 @@
     	<tag name="military"/>				
     </type>	
     <type name="AD_LeupoldMk4">
-        <nominal>3</nominal>
+        <nominal>4</nominal>
         <lifetime>2700</lifetime>
         <restock>300</restock>
-        <min>2</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
